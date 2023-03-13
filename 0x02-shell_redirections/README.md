@@ -1,3 +1,5 @@
-task 0. Hello World
-task 1. Confused smiley
-task
+task 0. Hello World (afficher hello world)
+
+task 1. Confused smiley (Escape — (barre oblique inverse) empêche le caractère suivant d'être interprété comme un caractère spécial. Cela fonctionne en dehors des guillemets, à l'intérieur des guillemets doubles et généralement ignoré dans les guillemets simples.)
+
+task 2. Let's display a file (Display the content of the /etc/passwd file.)
